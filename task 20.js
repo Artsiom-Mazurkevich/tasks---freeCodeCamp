@@ -1,3 +1,4 @@
+//setup
 const myMusic = [
     {
       "artist": "Billy Joel",

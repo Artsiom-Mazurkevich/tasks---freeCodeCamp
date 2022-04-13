@@ -1,3 +1,4 @@
+//Setup
 const myStorage = {
     "car": {
       "inside": {
